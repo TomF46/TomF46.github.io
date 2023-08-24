@@ -1,0 +1,207 @@
+[
+  {
+    "name": "Watched It",
+    "slug": "watchedIt",
+    "link": null,
+    "githubLink": "https://github.com/TomF46/WatchedItWeb",
+    "readMeLink": "https://github.com/TomF46/WatchedItWeb/blob/master/README.md",
+    "description": "Watched It is a site inspired by Letterbox and Imdb which allows users to rate, review, and make lists of your favourite films, it contains various ways to find films, people, credits, read reviews, find ratings and more. It is built using .Net core Web Api and React using the Vite build system",
+    "images": [
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/WatchedItWeb/WatchedItLogo1.png",
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/WatchedItWeb/WatchedItDetail.png",
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/WatchedItWeb/DesktopHomeNotLoggedIn.png",
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/WatchedItWeb/HomeDesktop.png",
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/WatchedItWeb/FilmsDesktop.PNG",
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/WatchedItWeb/FilmDesktop.PNG",
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/WatchedItWeb/PeopleTablet.png",
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/WatchedItWeb/PersonMobile.png",
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/WatchedItWeb/FilmCreditsMobile.png",
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/WatchedItWeb/PersonAddCreditMobile1.png",
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/WatchedItWeb/PersonAddCreditMobile2.png",
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/WatchedItWeb/ProfileTablet.png",
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/WatchedItWeb/ReviewTablet.png"
+    ],
+    "videos": [],
+    "technology": [".Net Core web api", "Entity framework core", "React", "Vite build system", "Redux"]
+  },
+  {
+    "name": "Mentior Corp Finance Tool",
+    "slug": "finance-app",
+    "link": null,
+    "githubLink": "https://github.com/TomF46/FinanceApp",
+    "readMeLink": "https://github.com/TomF46/FinanceApp/blob/main/README.md",
+    "description": "Mentior Corp Finance Tool is an end of year funding application app for a fictitious company. This application was created using a React front end wrapped within a Laravel application acting as an API. In depth information about the business case and technical information can be found in the ReadMe by following the link to Github.",
+    "images": [
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/MentiorCorp/MentiorCorpLogo.png",
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/MentiorCorp/MentiorCorpOverview.png",
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/MentiorCorp/AreaManagerDashboard.PNG",
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/MentiorCorp/RetailManagerDashboard.PNG",
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/MentiorCorp/Application.PNG",
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/MentiorCorp/ApplicationReadOnly.PNG",
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/MentiorCorp/YearOverview.PNG"
+    ],
+    "videos": [
+      {
+        "title": "Admin - Employee creation",
+        "link": "https://www.youtube.com/watch?v=WCDHkjoU5WI",
+        "src": "https://www.youtube.com/embed/WCDHkjoU5WI"
+      },
+      {
+        "title": "Admin - Product creation",
+        "link": "https://www.youtube.com/watch?v=lNrl2kBRAVE",
+        "src": "https://www.youtube.com/embed/lNrl2kBRAVE"
+      },
+      {
+        "title": "Application year creation",
+        "link": "https://www.youtube.com/watch?v=1kHOFyMa_6A",
+        "src": "https://www.youtube.com/embed/1kHOFyMa_6A"
+      },
+      {
+        "title": "Retail manager application",
+        "link": "https://www.youtube.com/watch?v=YlqPyZKBnks",
+        "src": "https://www.youtube.com/embed/YlqPyZKBnks"
+      },
+      {
+        "title": "Area manager review",
+        "link": "https://www.youtube.com/watch?v=0WcvZku3F4A",
+        "src": "https://www.youtube.com/embed/0WcvZku3F4A"
+      },
+      {
+        "title": "Head office overview",
+        "link": "https://www.youtube.com/watch?v=opaKzj7ZPV4",
+        "src": "https://www.youtube.com/embed/opaKzj7ZPV4"
+      }
+    ],
+    "technology": [
+      "Laravel",
+      "React",
+      "Tailwind css",
+      "SASS",
+      "Webpack mix",
+      "PHP unit testing",
+      "Docker with Laravel Sail"
+    ]
+  },
+  {
+    "name": "Untitled quiz app",
+    "slug": "untitled-quiz-app",
+    "link": "http://untitledquizapp.co.uk/",
+    "githubLink": "https://github.com/TomF46/UntitledQuizApp",
+    "readMeLink": "https://github.com/TomF46/UntitledQuizApp/blob/master/README.md",
+    "description": "This application consists of a Laravel API and a React frontend and allows users to create quizzes, take other peoples quizzes and more, see the Github ReadMe for a compehensive list. This application was undertaken as i have been learning laravel recently and wanted to do a slightly larger project using it. Note website may not be hosted at all times, let me know if you would like me to host it again via email.",
+    "images": [
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/QApp/QAppWebsiteLogo.png",
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/QApp/QAppOverview.png",
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/QApp/Dashboard.PNG",
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/QApp/ExplorePage.PNG",
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/QApp/QuizDetailPage.PNG",
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/QApp/Question.PNG",
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/QApp/VideoQuestion.PNG",
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/QApp/ProfilePage.PNG",
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/QApp/Challenges.PNG",
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/QApp/EventPage.PNG"
+
+    ],
+    "videos": [
+      {
+        "title": "Example flow",
+        "link": "https://youtu.be/FWkT055tgB4",
+        "src": "https://www.youtube.com/embed/FWkT055tgB4"
+      },
+      {
+        "title": "Search example",
+        "link": "https://youtu.be/a6fTz8RVsVI",
+        "src": "https://www.youtube.com/embed/a6fTz8RVsVI"
+      },
+      {
+        "title": "Quiz creation example",
+        "link": "https://youtu.be/50Did_lvNck",
+        "src": "https://www.youtube.com/embed/50Did_lvNck"
+      },
+      {
+        "title": "Events",
+        "link": "https://youtu.be/fJd1TL-xnCE",
+        "src": "https://www.youtube.com/embed/fJd1TL-xnCE"
+      }
+    ],
+    "technology": [
+      "Laravel",
+      "React",
+      "Tailwind css",
+      "SASS",
+      "Webpack mix",
+      "PHP unit testing",
+      "Laravel forge deployment with AWS"
+    ]
+  },
+  {
+    "name": "League Administration App",
+    "slug": "league-administration-app",
+    "link": null,
+    "githubLink": "https://github.com/TomF46/LeagueSite",
+    "readMeLink": "https://github.com/TomF46/LeagueSite/blob/master/README.md",
+    "description": "This is a hockey (or football) league administration app which includes a .Net Core API and react front end, normal users can view league fixtures, results, and league tables as well as informarion about teams, special admin users can configure all this data in management view. The idea for this demonstration app came about as the websites used by most leagues are pretty bad and i wondered if i could make a better one.",
+    "images": [
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/LeagueApp/LeagueAdminWebsiteLogo.png",
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/LeagueApp/LeagueAppOverview.png",
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/LeagueApp/LeagueAppFixtures.PNG",
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/LeagueApp/LeagueAppLeagueTable.PNG",
+      "https://personal-website-images-tom.s3-eu-west-1.amazonaws.com/LeagueApp/LeagueAppTeams.PNG",
+      "https://personal-website-images-tom.s3-eu-west-1.amazonaws.com/LeagueApp/LeagueAppDivision.PNG"
+    ],
+    "videos": [],
+    "technology": [
+      ".NET Core Api",
+      "ER Core",
+      "React",
+      "Webpack / Babel",
+      "Bulma css framework",
+      "SASS",
+      "NUnit testing",
+      "JWT Authentication"
+    ]
+  },
+  {
+    "name": "WatchedIt React Native",
+    "slug": "watchedItNative",
+    "link": null,
+    "githubLink": "https://github.com/TomF46/WatchedIt",
+    "readMeLink": "https://github.com/TomF46/WatchedIt/blob/master/README.md",
+    "description": "Watched IT mobile is a simple app where you can find, view and explore films and create a watched list to track the films you have seen. This is inspired by apps such as Letteboxd. The purpose of this application is to learn React Native and how it compares to other tech I have used such as Quasar, Ionic, and Cordova. Due to this I have tried to keep all development concentrated on visible elements such as design and user interaction and decided to mock the data with JSON as opposed to creating a real API though I may add this in the future. See Github link for Download instructions.",
+    "images": [
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/WatchedIt/WatchedItWebsiteLogo.png",
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/WatchedIt/WatchedItOverview.png",
+      "https://personal-website-images-tom.s3-eu-west-1.amazonaws.com/WatchedIt/WatchedIt.jpg",
+      "https://personal-website-images-tom.s3-eu-west-1.amazonaws.com/WatchedIt/Home.jpg",
+      "https://personal-website-images-tom.s3-eu-west-1.amazonaws.com/WatchedIt/ViewFilm.jpg",
+      "https://personal-website-images-tom.s3-eu-west-1.amazonaws.com/WatchedIt/Explore.jpg",
+      "https://personal-website-images-tom.s3-eu-west-1.amazonaws.com/WatchedIt/ExploreSearching.jpg",
+      "https://personal-website-images-tom.s3-eu-west-1.amazonaws.com/WatchedIt/MyFilms.jpg"
+    ],
+    "videos": [],
+    "technology": ["React", "React Native", "Redux"]
+  },
+  {
+    "name": "Appathematics",
+    "slug": "appathematics",
+    "link": "https://appathematics.tomfylesdev.com/",
+    "githubLink": "https://github.com/TomF46/Appathematics",
+    "readMeLink": "https://github.com/TomF46/Appathematics/blob/master/README.md",
+    "description": "Appathemtatics is a mobile first progressive web app designed to gameify basic maths skills for children, race against the clock to set new high scores and try to complete the levels as fast as possible, the game contains a number of levels which differ in the number of questions, operators used (addition, subtraction, multiplication, division) and more. This application can be installed as an app on the phone or played in a standard browser. Please see its github page for more technical information.",
+    "images": [
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/Appathematics/AppathematicsWebsiteLogo.png",
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/Appathematics/AppathemticsOverview.png",
+      "https://personal-website-images-tom.s3-eu-west-1.amazonaws.com/Appathematics/appathematics.PNG"
+    ],
+    "videos": [],
+    "technology": [
+      "Vue",
+      "PWA features",
+      "Webpack and Babel build system",
+      "Vuex state management",
+      "Jest unit testing",
+      "Nightwatch E2E testing",
+      "AWS Amplify deployment"
+    ]
+  }
+]
