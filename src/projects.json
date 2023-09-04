@@ -3,8 +3,8 @@
     "name": "Watched It",
     "slug": "watchedIt",
     "link": null,
-    "githubLink": "https://github.com/TomF46/WatchedItWeb",
-    "readMeLink": "https://github.com/TomF46/WatchedItWeb/blob/master/README.md",
+    "githubLink": "https://github.com/TomF46/WatchedIt",
+    "readMeLink": "https://github.com/TomF46/WatchedIt/blob/master/README.md",
     "description": "Watched It is a site inspired by Letterbox and Imdb which allows users to rate, review, and make lists of your favourite films, it contains various ways to find films, people, credits, read reviews, find ratings and more. It is built using .Net core Web Api and React using the Vite build system",
     "images": [
       "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/WatchedItWeb/WatchedItLogo1.png",
@@ -162,26 +162,6 @@
     ]
   },
   {
-    "name": "WatchedIt React Native",
-    "slug": "watchedItNative",
-    "link": null,
-    "githubLink": "https://github.com/TomF46/WatchedIt",
-    "readMeLink": "https://github.com/TomF46/WatchedIt/blob/master/README.md",
-    "description": "Watched IT mobile is a simple app where you can find, view and explore films and create a watched list to track the films you have seen. This is inspired by apps such as Letteboxd. The purpose of this application is to learn React Native and how it compares to other tech I have used such as Quasar, Ionic, and Cordova. Due to this I have tried to keep all development concentrated on visible elements such as design and user interaction and decided to mock the data with JSON as opposed to creating a real API though I may add this in the future. See Github link for Download instructions.",
-    "images": [
-      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/WatchedIt/WatchedItWebsiteLogo.png",
-      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/WatchedIt/WatchedItOverview.png",
-      "https://personal-website-images-tom.s3-eu-west-1.amazonaws.com/WatchedIt/WatchedIt.jpg",
-      "https://personal-website-images-tom.s3-eu-west-1.amazonaws.com/WatchedIt/Home.jpg",
-      "https://personal-website-images-tom.s3-eu-west-1.amazonaws.com/WatchedIt/ViewFilm.jpg",
-      "https://personal-website-images-tom.s3-eu-west-1.amazonaws.com/WatchedIt/Explore.jpg",
-      "https://personal-website-images-tom.s3-eu-west-1.amazonaws.com/WatchedIt/ExploreSearching.jpg",
-      "https://personal-website-images-tom.s3-eu-west-1.amazonaws.com/WatchedIt/MyFilms.jpg"
-    ],
-    "videos": [],
-    "technology": ["React", "React Native", "Redux"]
-  },
-  {
     "name": "Appathematics",
     "slug": "appathematics",
     "link": "https://tomf46.github.io/Appathematics/",
@@ -203,5 +183,25 @@
       "Nightwatch E2E testing",
       "AWS Amplify deployment"
     ]
+  },
+  {
+    "name": "WatchedIt React Native",
+    "slug": "watchedItNative",
+    "link": null,
+    "githubLink": "https://github.com/TomF46/WatchedIt-Mobile",
+    "readMeLink": "https://github.com/TomF46/WatchedIt-Mobile/blob/master/README.md",
+    "description": "Watched IT mobile is a simple app where you can find, view and explore films and create a watched list to track the films you have seen. This is inspired by apps such as Letteboxd. The purpose of this application is to learn React Native and how it compares to other tech I have used such as Quasar, Ionic, and Cordova. Due to this I have tried to keep all development concentrated on visible elements such as design and user interaction and decided to mock the data with JSON as opposed to creating a real API though I may add this in the future. See Github link for Download instructions.",
+    "images": [
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/WatchedIt/WatchedItWebsiteLogo.png",
+      "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/WatchedIt/WatchedItOverview.png",
+      "https://personal-website-images-tom.s3-eu-west-1.amazonaws.com/WatchedIt/WatchedIt.jpg",
+      "https://personal-website-images-tom.s3-eu-west-1.amazonaws.com/WatchedIt/Home.jpg",
+      "https://personal-website-images-tom.s3-eu-west-1.amazonaws.com/WatchedIt/ViewFilm.jpg",
+      "https://personal-website-images-tom.s3-eu-west-1.amazonaws.com/WatchedIt/Explore.jpg",
+      "https://personal-website-images-tom.s3-eu-west-1.amazonaws.com/WatchedIt/ExploreSearching.jpg",
+      "https://personal-website-images-tom.s3-eu-west-1.amazonaws.com/WatchedIt/MyFilms.jpg"
+    ],
+    "videos": [],
+    "technology": ["React", "React Native", "Redux"]
   }
 ]
