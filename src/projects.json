@@ -167,7 +167,7 @@
     "link": "https://tomf46.github.io/Appathematics/",
     "githubLink": "https://github.com/TomF46/Appathematics",
     "readMeLink": "https://github.com/TomF46/Appathematics/blob/master/README.md",
-    "description": "Appathemtatics is a mobile first progressive web app designed to gameify basic maths skills for children, race against the clock to set new high scores and try to complete the levels as fast as possible, the game contains a number of levels which differ in the number of questions, operators used (addition, subtraction, multiplication, division, powers, roots) and more. This application can be installed as an app on the phone or played in a standard browser. Please see the Github page for more technical information.",
+    "description": "Appathemtatics is a mobile first progressive web app designed to gameify basic maths skills for children, race against the clock to set new high scores and try to complete the levels as fast as possible, the game contains a number of levels which differ in the number of questions, operators used (addition, subtraction, multiplication, division, powers, roots), as well as a question set creation tool to create your own. This application can be installed as an app on the phone or played in a standard browser. Please see the Github page for more technical information.",
     "images": [
       "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/Appathematics/AppathematicsWebsiteLogo.png",
       "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/Appathematics/AppathemticsOverview.png",
