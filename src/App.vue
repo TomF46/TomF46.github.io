@@ -66,6 +66,12 @@ body, html{
   color: #ADF1D2;
 }
 
+.page-subtitle{
+  font-size: 1.75em;
+  margin: 0.2em 0;
+  color: #ADF1D2;
+}
+
 p, a, li{
   color: #f7f9fb;
 }

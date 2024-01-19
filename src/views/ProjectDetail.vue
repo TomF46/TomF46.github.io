@@ -59,7 +59,12 @@
                                     Detailed ReadMe
                                 </button>
                             </div>
-                            <div class="col-xs-12">
+                            <div v-if="project.images.length > 0"  class="col-xs-12">
+                                <div class="row center-xs start-sm">
+                                    <h2 class="page-subtitle">
+                                    Images
+                                    </h2>
+                                </div>
                                 <div
                                     class="row center-xs start-sm image-preview-row"
                                 >
@@ -83,7 +88,9 @@
                                 v-if="project.videos.length > 0"
                                 class="col-xs-12"
                             >
-                                <h2 class="title">Videos</h2>
+                                <div class="row center-xs start-sm">
+                                    <h2 class="page-subtitle">Videos</h2>
+                                </div>
                                 <div class="row">
                                     <div
                                         v-for="(video, j) in project.videos"
