@@ -69,8 +69,10 @@
             ".Net Core web api",
             "Entity framework core",
             "React",
+            "Typescript",
             "Vite build system",
-            "Redux"
+            "Redux",
+            "React-query"
         ]
     },
     {
