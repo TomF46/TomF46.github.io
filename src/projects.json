@@ -5,7 +5,7 @@
         "link": null,
         "githubLink": "https://github.com/TomF46/WatchedIt",
         "readMeLink": "https://github.com/TomF46/WatchedIt/blob/master/README.md",
-        "description": "Watched It is a site inspired by Letterbox and Imdb which allows users to rate, review, and make lists of your favourite films, it contains various ways to find films, people, credits, read reviews, find ratings and more. It is built using .Net core Web Api and React using the Vite build system",
+        "description": "Watched It is a site inspired by Letterbox and Imdb which allows users to rate, review, and make lists of your favourite films, it contains various ways to find films, people, credits, read reviews, find ratings and more. It is built using .Net core Web Api and React with Typescript using the Vite build system",
         "images": [
             {
                 "src": "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/WatchedItWeb/WatchedItLogo1.png",
