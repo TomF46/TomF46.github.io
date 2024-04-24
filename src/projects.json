@@ -36,12 +36,24 @@
                 "title": "Film page on desktop"
             },
             {
+                "src": "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/WatchedItWeb/FilmDesktop2.png",
+                "title": "Film page on desktop lower down on page"
+            },
+            {
                 "src": "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/WatchedItWeb/PeopleTablet.png",
                 "title": "People page on tablet"
             },
             {
                 "src": "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/WatchedItWeb/PersonMobile.png",
                 "title": "Person page on mobile"
+            },
+            {
+                "src": "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/WatchedItWeb/PersonGalleryMobile.png",
+                "title": "Person gallery page on mobile"
+            },
+            {
+                "src": "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/WatchedItWeb/PersonGalleryMobileZoomed.png",
+                "title": "Person gallery page with image selected on mobile"
             },
             {
                 "src": "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/WatchedItWeb/FilmCreditsMobile.png",
