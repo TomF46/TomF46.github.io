@@ -44,6 +44,14 @@
                 "title": "Full film page on desktop"
             },
             {
+                "src": "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/WatchedItWeb/FilmEdit.png",
+                "title": "Film create / edit page on desktop"
+            },
+            {
+                "src": "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/WatchedItWeb/FilmEditTrailer.png",
+                "title": "Modal for adding / editing a film trailer on desktop"
+            },
+            {
                 "src": "https://personal-website-images-tom.s3.eu-west-1.amazonaws.com/WatchedItWeb/PeopleTablet.png",
                 "title": "People page on tablet"
             },
